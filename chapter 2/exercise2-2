@@ -1,0 +1,5 @@
+message = "aku cinta kamu"
+print (message)
+
+message = "aku enggak cinta kamu"
+print (message)
