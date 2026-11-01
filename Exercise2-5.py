@@ -1,0 +1,1 @@
+print ('tiara putri once said,"gak tidur gak kedip,undip"')
