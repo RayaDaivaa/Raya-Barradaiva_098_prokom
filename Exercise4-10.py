@@ -7,4 +7,4 @@ print("Three items from the middle of the list are:")
 print (animals[2:4])
 
 print("The last three items in the list are:")
-print (animals[-3:])
+print (animals[3:])
